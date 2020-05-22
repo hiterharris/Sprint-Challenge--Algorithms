@@ -7,7 +7,7 @@ a)
 -There is one while loop and the time complexity always relies on the size of n
 
 b)
--O(n^2)
+-O(n log(n))
 -There is a nested loop
 
 c)
